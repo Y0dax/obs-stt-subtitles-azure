@@ -34,7 +34,7 @@ OBS bug documented here: https://obsproject.com/forum/threads/using-browser-as-s
 
 1. Locate and right click on the shortcut you use to open OBS.
 2. Select "Properties"
-3. In the "Target" box, add `--use-fake-ui-for-media-stream` to the very end. It should look simial to `"C:\Program Files (x86)\obs-studio\bin\64bit\obs64.exe" --use-fake-ui-for-media-stream`
+3. In the "Target" box, add `--use-fake-ui-for-media-stream` to the very end. It should look similar to `"C:\Program Files (x86)\obs-studio\bin\64bit\obs64.exe" --use-fake-ui-for-media-stream`
 
 Make sure to start OBS with this shortcut for the subtitles to work. If the subtitle program cannot access your microphone, a message will display after 15 seconds regarding this step.
 
