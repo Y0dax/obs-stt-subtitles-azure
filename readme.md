@@ -6,11 +6,11 @@ Welcome! This repo is a heavily modified and simplified version of https://githu
 
 # Setup
 
-Setup is extremely simple and the subtitles run locally. The only connection is directly to Microsoft via the SDK for the STT.
+Setup is very simple and the subtitles run locally. The only connection is directly to Microsoft via the SDK for the STT.
 
 ## Step 1 - Download code
 
-Download the code as a zip file from github using the green button above.
+Download the code as a zip file from github using the green button above or the releases page.
 
 ## Step 2 - Extract files
 
