@@ -16,9 +16,9 @@ Download the code as a zip file from github using the green button above or the 
 
 Extract the files from the zip into a location on your hard drive.
 
-## Step 2 - Add Microsoft Cognition subscriptioon key and region.
+## Step 2 - Add Microsoft Cognition subscription key and region.
 
-1. Open `subtitles.html`.
+1. Open `js/subtitles.js`. by right click -> edit or open with your favorite text editor.
 2. Enter your subscription key and region into the provided fields and save the file.
 
 ```javascript
