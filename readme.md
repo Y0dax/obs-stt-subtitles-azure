@@ -1,3 +1,8 @@
+## NOTE: This repo has been deprecated. While it will should still continue to function, the features have been integrating into the electron version that has more settings and support for additional use cases. See here: https://github.com/Y0dax/azure-stt-subtitles-electron
+
+<br><br><br>
+
+
 # OBS STT Subtitles using Microsoft Azure Cognitive SDK
 
 Welcome! This repo is a heavily modified and simplified version of https://github.com/stephenlb/twitch-tv-obs-subtitles that uses the Microsoft Azure Cognitive SDK for better STT results. This is the same service that Microsoft Cortana uses.
