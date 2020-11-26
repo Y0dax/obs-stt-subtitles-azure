@@ -1,4 +1,4 @@
-## NOTE: This repo has been deprecated. While it will should still continue to function, the features have been integrating into the electron version that has more settings and support for additional use cases. See here: https://github.com/Y0dax/azure-stt-subtitles-electron
+## NOTE: This repo has been deprecated. While it will should still continue to function, the features have been integrated into the electron version that has more settings and support for additional use cases. See here: https://github.com/Y0dax/azure-stt-subtitles-electron
 
 <br><br><br>
 
